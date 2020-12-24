@@ -9,6 +9,7 @@
                 <div class="navbar-nav">
                     <router-link to="/" class="nav-item nav-link">Home</router-link>
                     <router-link to="/add" class="nav-item nav-link">Add Post</router-link>
+                    <router-link to="/login" class="nav-item nav-link">Login</router-link>
                 </div>
             </div>
         </nav>
